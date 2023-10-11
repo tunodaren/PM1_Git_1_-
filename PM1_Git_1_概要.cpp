@@ -6,6 +6,7 @@
 int main()
 {
     std::cout << "Hello VisualStudio Git!ああああああああああ\n";
+    std::cout << "2023年10月11日\n";
 }
 
 // プログラムの実行: Ctrl + F5 または [デバッグ] > [デバッグなしで開始] メニュー
