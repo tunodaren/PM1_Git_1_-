@@ -7,6 +7,12 @@ int main()
 {
     std::cout << "Hello VisualStudio Git!ああああああああああ\n";
     std::cout << "2023年10月11日\n";
+
+    std::cout << "int PlayerPosX = 10\n";
+    std::cout << "int PlayerPosY = 50\n";
+
+    
+    std::cout << "PullRquest branch channge\n";
 }
 
 // プログラムの実行: Ctrl + F5 または [デバッグ] > [デバッグなしで開始] メニュー
